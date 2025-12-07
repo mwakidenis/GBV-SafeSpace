@@ -15,6 +15,8 @@
 [![GBV Prevention](https://img.shields.io/badge/GBV-Prevention-purple?style=flat-square)](https://github.com)
 [![SDG 5](https://img.shields.io/badge/SDG%205-Gender%20Equality-red?style=flat-square)](https://sdgs.un.org/goals/goal5)
 [![SDG 16](https://img.shields.io/badge/SDG%2016-Peace%20%26%20Justice-blue?style=flat-square)](https://sdgs.un.org/goals/goal16)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow?style=flat-square)](https://wa.me/254798750585)
+
 
 [Features](#-features) • [Screenshots](#-app-screenshots) • [Why HERA](#-why-hera-safespace) • [Getting Started](#-getting-started) • [Contributing](#-contributing)
 
